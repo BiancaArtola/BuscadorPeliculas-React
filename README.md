@@ -1,3 +1,5 @@
+Esta web tiene la funcionalidad de buscar peliculas mediante una API. Fue desarrollada en React. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
