@@ -4,19 +4,21 @@ Through this website you can search for movies through an API. It is a very simp
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About
-When you do a succesfull search in this website, you can look something like this:
+When you perform a successful search on this website, it looks like this:
 <p align="center">
 <img src="https://i.ibb.co/dWT7h8L/Busqueda-Exitosa.png" alt="drawing" />
 </p>
 
-When you do a non-succesfull search (this means, a search that doesn't have results) in this website, you can look something like this:
+When you perform an unsuccessful search (this means, a search that has no results) on this website, it will look like this:
 <p align="center">
 <img src="https://i.ibb.co/rxcL1fZ/Busqueda-No-Exitosa.png" alt="drawing" />
 </p>
 
 ## Built With
 
-* [React](https://es.reactjs.org/docs/getting-started.html) - The web Framework
+* [React](https://es.reactjs.org/docs/getting-started.html) - The web Framework.
+* [Bulma](https://bulma.io/) - Free, open source CSS framework.
+* [OMB API](http://www.omdbapi.com/) - API is a RESTful web service.
 
 ## Available Scripts
 
